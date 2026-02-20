@@ -29,7 +29,7 @@ Aplicação Windows Forms em VB.NET que consome um endpoint HTTP para consultar 
   - Placas
   - Status
   - Lista de paradas
-  - 
+    
 Se não houver viagem para o telefone informado, o sistema exibe:
 Nenhuma viagem encontrada para este telefone.
 
